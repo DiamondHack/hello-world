@@ -9,6 +9,10 @@ int main(){
   int c;
   
   c = a + b;
-  printf("%d", c);
+  printf("c = %d", c);
+  
+  c -= a;
+  
+  printf("c now equals b, %d = %d" b, c);
 
 }
